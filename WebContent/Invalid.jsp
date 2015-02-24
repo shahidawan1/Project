@@ -4,20 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Login form</title>
+<title>Insert title here</title>
 </head>
 <body>
-<form action="register" method="POST">
-<h1>main login page</h1>
-<br>
-<br>
-user name<br>
-<input type="text" size="25" name="username" id="username">
-<br>
-password<br>
-<input type="password" id="password" name="password">
-
-<input type="submit" value="submit">
-</form>
+<h1>Invalid User</h1>
 </body>
 </html>
+
